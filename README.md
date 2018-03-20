@@ -3,7 +3,7 @@ A list of basic Networking concepts for Computer Scientists to know
 
 ## 1. The Hyper Text Transfer Protocol AKA HTTP
 #### HTTP VERBS :
-1. </bold>GET : The GET method requests a representation of the specified resource. Requests using GET should only retrieve data
+1. GET : The GET method requests a representation of the specified resource. Requests using GET should only retrieve data
 2. POST : The POST method is used to submit an entity to the specified resource, often causing a change in state on the server
 3. HEAD : The HEAD method asks for a response identical to that of a GET request, but without the response body.
 4. PUT : The PUT method replaces all current representations of the target resource with the request payload.
