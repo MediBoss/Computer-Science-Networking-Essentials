@@ -1,5 +1,5 @@
 # Computer-Science-Networking-Essentials (under construction)
-A list of basic Networking concepts for Computer Scientists to know
+A list of basic Networking concepts for Computer Scientist Majors to know
 
 ## 1. The Hyper Text Transfer Protocol AKA HTTP
 #### Most common HTTP VERBS :
