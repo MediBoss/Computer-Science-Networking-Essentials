@@ -8,7 +8,7 @@ A list of basic Networking concepts for Computer Science Majors (Me,specifically
 ## 4. SubnetMask : 
 ## 5. Gateway Port :
 ## 6. Domain : 
-## 7.Server : 
+## 7. Server : 
 ## 8. Database : 
 ## 9. Router : 
 ## 10. Switch : 
