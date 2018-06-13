@@ -1,4 +1,4 @@
-# Computer-Science-Networking-Essentials (under construction)
+# Computer-Science-Networking-Essentials
 A list of basic Networking concepts for Computer Science Majors (Me,specifically) to understand but not master.
 
 ## 1. The Hyper Text Transfer Protocol AKA HTTP
