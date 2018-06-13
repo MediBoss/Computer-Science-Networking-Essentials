@@ -2,8 +2,8 @@
 A list of basic Networking concepts for Computer Science Majors (Me,specifically) to understand but not master.
 
 
-## 3. VLAN/WLAN : 
-## 2. Common Newtorking concepts
+## 3. VLAN : 
+## 2. WLAN : 
 ## 3. IP Address : 
 ## 4. SubnetMask : 
 ## 5. Gateway Port :
