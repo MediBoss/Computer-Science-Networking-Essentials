@@ -1,4 +1,4 @@
-# Essential Networling concepts for Software Engineers
+# Essential Networking concepts for Software Engineers
 A list of basic Networking concepts for Computer Science Majors (Me,specifically) to understand but not master.
 
 
