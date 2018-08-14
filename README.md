@@ -46,8 +46,6 @@ A list of basic Networking concepts for Computer Science Majors to understand bu
  
 ## 12. HTTP : 
 
-Short for Hyper Text Transfer Protocol,It allows applications to to communcate and share data.
-
   ### Quick Facts;
    
    * It is TCP/IP Based
