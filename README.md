@@ -1,3 +1,5 @@
+![alt text](https://www.lifewire.com/thmb/XdZgKpmI19Clz49VkA2d_SCAafY=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/computer-network-alex-slobodkin-e-plus-getty-images-56a6fab03df78cf772913eff.jpg "Logo Title Text 1")
+
 # Essential Networking concepts for Software Engineers
 A list of basic Networking concepts for Computer Science Majors to understand but not master.
 
