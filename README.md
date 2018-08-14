@@ -2,50 +2,64 @@
 A list of basic Networking concepts for Computer Science Majors to understand but not master.
 
 
-### 1. VLAN : 
+## 1. VLAN : 
 
 
  
-### 2. WLAN : 
+## 2. WLAN : 
 
 
-### 3. IP : 
-
- 
- 
-### 4. SubnetMask : 
-
+## 3. IP : 
 
  
-### 5. Gateway Port :
+ 
+## 4. SubnetMask : 
+
 
  
-### 6. Domain : 
+## 5. Gateway Port :
+
+ 
+## 6. Domain : 
 
 
 ### 7. Server : 
 
 
-### 8. Database :
+## 8. Database :
 
 
  
-### 9. Router : 
+## 9. Router : 
 
 
  
-### 10. Switch : 
+## 10. Switch : 
 
 
  
-### 11. TCP : 
+## 11. TCP : 
 
  
  
-### 12. HTTP : 
+## 12. HTTP : 
+
+Short for Hyper Text Transfer Protocol,It allows applications to to communcate and share data.
+
+  ### Quick Facts;
+   
+   * It is TCP/IP Based
+   * Used to deliver and send data(images, audios,text files, etc...)
+   * It is connectionless : After the client makes a request, it disonnects. Only reconnects when the response is ready.
+   * HTTP is Stateless : Only knows infomation about the clinet during the data-sharing period of time.
+   
+
+
+  ### Common HTTP Verbs :
 
   * GET : Request the informations to be fetched
   * POST : Requests the information to be created
   * DELETE : Requests the information to be deleted
   * PUT : Requests the information to be updated
+  
 
