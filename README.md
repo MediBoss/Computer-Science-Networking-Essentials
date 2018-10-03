@@ -25,7 +25,7 @@ A list of basic Networking concepts for Computer Science Majors to understand bu
 ## 6. Domain : 
 
 
-### 7. Server : 
+## 7. Server : 
 
 
 ## 8. Database :
